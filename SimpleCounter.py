@@ -5,3 +5,4 @@ class SimpleCounter:
 
 counter = SimpleCounter()
 counter.count_to_100()
+print('foo')
